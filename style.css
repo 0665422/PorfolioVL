@@ -15,7 +15,7 @@
 
 .container {
     width: 100%;
-    max-width: 960px;
+    max-width: 1366px;
     margin: 0 auto;
     clear: both;
 }
@@ -35,6 +35,29 @@ nav a {
     border-left: 1px solid gray;
 }
 
-nav a :first-child {
+nav a: first-child {
     border-left: 0 none;
+}
+
+#main-continer {
+    padding-top: 130px;
+}
+
+.main-section {
+    float: left;
+    width: 100%;
+    max-width: 650px;
+    padding: 30px;
+    margin: 0 0 40px;
+    background: #fff;
+    border: 1px solid #ddd;
+}
+
+.auth-image {
+    float: left;
+    width: 200px;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 25px;
+
 }
