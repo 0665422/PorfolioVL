@@ -1,0 +1,47 @@
+* {
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: 'Muli', sans-serif;
+  font-weight: 300;
+  font-size: 60px;
+  text-align: center;
+  padding: 50px;
+}
+
+hr {
+  padding-bottom: 50px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  text-align: center;
+  background-color: white;
+  color: #4dc27f;
+  border: 3px solid #4dc27f;
+  font-family: 'Muli', sans-serif;
+  font-size: 17px;
+  line-height: 35px;
+  word-spacing: 0.15em;
+  letter-spacing: 0.1em;
+}
+
+th {
+  background-color: #4dc27f;
+  color: white;
+  font-weight: 600;
+}
+
+
+
+a:link {
+  color: #4dc27f;
+}
+
+a:visited {
+  color: #48CFCE;
+}

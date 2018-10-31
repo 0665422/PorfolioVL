@@ -1,0 +1,25 @@
+<html>
+
+<head>
+  <title> Smart House | Sources </title>
+  <link rel="stylesheet" type="text/css" href="source_style.css">
+  <link href="https://fonts.googleapis.com/css?family=Muli:300,300i,400,400i,600,600i,800,900" rel="stylesheet">
+</head>
+
+<body>
+  <h1> Sources </h1>
+  <hr>
+
+  <table width="650" cellpadding="5" class="table">
+    <tr> <th> Subject </th> <th> Link </th> </tr>
+    <tr> <td> image#1 </td> <td> <a href="https://9to5mac.com/2018/07/09/smart-home-domestic-abuse-help/" target="_blank"> Link </a> </td> </tr>
+    <tr> <td> image#2 </td> <td> <a href="https://www.moseleyelectronics.com/2017/04/27/10-of-the-most-exciting-smart-home-appliances-in-2017/smart-home-appliance-features/" target="_blank"> Link </td> </tr>
+    <tr> <td> Amazon Echo </td> <td> <a href="https://www.amazon.com/dp/B07456BG8N?tag=googhydr-20&hvadid=251386627342&hvpos=1t1&hvnetw=g&hvrand=85435375656998341&hvpone=&hvptwo=&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9011912&hvtargid=kwd-295921611050&ref=pd_sl_2g7cb1h5ze_e" target="_blank"> Link </a> </td> </tr> 
+    <tr> <td> Google Assistant </td> <td> <a href="https://assistant.google.com/intl/en_us/#?modal_active=none" target="_blank"> Link </a> </td> </tr>
+    <tr> <td> Nest </td> <td> <a href="https://nest.com/" target="_blank"> Link </a> </td> </tr>
+    <tr> <td> Hive </td> <td> <a href="https://www.hivehome.com/us" target="_blank"> Link </a> </td> </tr>
+    <tr> <td> information </td> <td> <a href="https://www.the-ambient.com/features/future-of-smart-home-timeline-310" target="_blank"> Link </a> </td> </tr>
+   </table>
+</body>
+
+</html>

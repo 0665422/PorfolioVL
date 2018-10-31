@@ -1,0 +1,99 @@
+* {
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+#masthead {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    margin: 0 0 30px;
+    color: white;
+    background-color: black;
+    font-family: 'Muli', sans-serif;
+    font-size: 20px;
+    word-spacing: 0.08em;
+    letter-spacing: 0.08em;
+    z-index: 7;
+}
+
+.container {
+    width: 100%;
+    height: 80px;
+    max-width: 1366px;
+
+}
+
+no {
+    float: right;
+    margin-top: 25px;
+}
+
+#nav_logo {
+    position: fixed;
+    display: inline;
+    left: 40px;
+} 
+
+nav {
+    position: fixed;
+    left: 400px;
+}
+
+nav a {
+    display: inline-block;
+    padding-left: 15px;
+    margin-left: 15px;
+    margin-top: 30px;
+    line-height: 18px;
+    color: white;
+    text-decoration: none;
+}
+
+.content {
+    width: 80%;
+    height: auto;
+    background-color: black;
+    margin-left: 10%;
+    margin-top: 160px;
+    font-family: 'Muli', sans-serif;
+    font-size: 20px;
+    line-height: 40px;
+    word-spacing: 0.15em;
+    letter-spacing: 0.03em;
+    color: white;
+    margin-bottom: 80px;
+}
+
+.anthony {
+    float: left;
+    width: 250px;
+    margin-right: 40px;
+    position: inline-block;
+}
+
+.joe {
+    float: right;
+    width: 250px;
+    margin-left: 40px;
+    position: inline-block;
+}
+
+figcaption {
+    text-align: center;
+    margin: 10px 0px;
+    font-size: 26px;
+    font-weight: 600;
+}
+
+h1 {
+    text-align: center;
+    width: auto;
+    height: auto;
+    padding-top: 40px;
+}
+
+p {
+    margin: 30px;
+    padding-bottom: 50px;
+}

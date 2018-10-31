@@ -1,0 +1,84 @@
+* {
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: 'Muli', sans-serif;
+  font-weight: 300;
+  font-size: 75px;
+  text-align: center;
+  padding: 50px;
+}
+
+h2 {
+  font-family: 'Muli', sans-serif;
+  font-weight: 300;
+  font-size: 75px;
+  text-align: center;
+  padding: 50px;
+}
+
+p {
+  font-family: 'Muli', sans-serif;
+  font-size: 20px;
+  width: 500px;
+  float: left;
+  padding: 50px;
+  line-height: 35px;
+  word-spacing: 0.15em;
+  letter-spacing: 0.05em;
+}
+
+.future {
+  font-family: 'Muli', sans-serif;
+  font-size: 20px;
+  float: left;
+  line-height: 35px;
+  word-spacing: 0.15em;
+  letter-spacing: 0.05em;
+  width: 1266px;
+  height: 450px;
+  padding: 0px 50px 100px 50px;
+  background-image: url(bg_texture.jpg);
+  color: white;
+}
+
+.small_pic {
+  padding: 50px 0px;
+}
+
+#future_title {
+  margin-bottom: 20px;
+}
+
+#ul_title {
+  margin-bottom: 20px;
+}
+
+#more_info {
+  height: 40px;
+  width: 140px;
+  border-radius: 3px;
+  background-color: #4dc27f;
+  padding-top: 3px;
+  margin: 30px 20px 0px 0px;
+  float: right;
+  text-align: center;
+  font-family: 'Muli', sans-serif;
+  font-size: 17px;
+  line-height: 35px;
+  word-spacing: 0.15em;
+  letter-spacing: 0.1em;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}

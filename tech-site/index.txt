@@ -1,0 +1,51 @@
+<html>
+
+<head>
+  <title> Smart House </title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link href="https://fonts.googleapis.com/css?family=Muli:300,300i,400,400i,600,600i,800,900" rel="stylesheet">
+</head>
+
+<body>
+  <h1> Smart House </h1>
+  <img src="smarthouse4_image.png">
+
+ 
+  <p>
+    Many companies research and already sell their Smart Home systems. Among them: Amazon Echo, Google Assistant, Nest, Hive, and many others.
+    Most of the Smart Home products <b>don't</b> work with each other, because they are competitors. For example, home temperature system does not communicate with lightning system and etc.
+    By <b>2030</b>, Smart Home systems are expected to become more efficient, functional, widespread, and affordable.
+  </p>
+
+  <div class="small_pic">
+    <img src="smarthouse_info_n.png">
+  </div>
+
+  <div class="future">
+    <div id="future_title">
+      <h2> Future </h2>
+      <hr>
+    </div>
+    <ul>
+      <div id="ul_title">
+        Future Smart Home systems will include:
+      </div>
+      <li> Security System </li>
+      <li> Climate and Lightning Control </li>
+      <li> Energy Management </li>
+      <li> Smart Bathroom and Kitchen </li>
+      <li> Automated Home Control (operates Smart Home without human intervention) </li>
+    </ul>
+    <br>
+    Further development may bring Smart City systems that will make our lives even easier.
+  
+    <a href="sources.html" target="_blank">
+     <div id="more_info">
+       <b>More Info</b>
+     </div>
+    </a>
+
+  </div>
+</body>
+
+</html>
